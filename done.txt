@@ -1,0 +1,9 @@
+home-french/english DONE
+gallery-french/english DONE
+about-french/english DONE
+events-french/english DONE
+reservation-french/english todo
+
+
+
+french tabs === Accueil/À propos/Galerie/Événements/Commentaires/Réservations/droits d'auteur/Me contacter/English
